@@ -31,6 +31,11 @@ The Smart Exam Hall Monitoring and Management System is an LPC2148-based embedde
 - Flash Magic
 - Proteus (for simulation, if used)
 
+##Block Diagram
+
+<img width="720" height="571" alt="WhatsApp Image 2026-10-30 at 8 28 20 PM" src="https://github.com/user-attachments/assets/e455d787-7cb4-41a3-ba32-e3f5f43abcec" />
+
+
 ## 🔄 Working Principle
 
 1. **Normal Monitoring:** The LCD displays the current date, time, and room temperature.
